@@ -17,7 +17,7 @@ The following details include a summary of the analysis which will show the inve
 
 ### Deliverable 1: Preprocessing the Data for PCA
 
-The crypto_data.csv file was retrieved from CryptoCompare and loaded into a Pandas Dataframe. The following image shows the updated dataframe after completing the preprocessing steps. There are 532 Cryptocurrencies remaining for analysis.
+The crypto_data.csv file was retrieved from CryptoCompare (https://min-api.cryptocompare.com/data/all/coinlist) and loaded into a Pandas Dataframe. The following image shows the updated dataframe after completing the preprocessing steps. There are 532 Cryptocurrencies remaining for analysis.
 
 ![crypto_df](https://github.com/RebeccaA79/Cryptocurrencies/blob/main/images/crypto_dataframe.png)
 
